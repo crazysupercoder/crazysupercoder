@@ -11,6 +11,8 @@ const crazysupercoder = {
   frontendTools: [React, Redux, Angular, Vue, NextJS],
   backendTools: [SpringBoot, Express, ASP.NET, Djanog],
   cloudServices: ["AWS", "Microsoft Azure"],
+  chains: ["Ethereum", "Binance", "Polygon", "Avalanche", "Solana", "Terra"],
+  dApps: ["Dex", "DeFi", "NFT", "Bridge", "P2E"]
 }
 ```
 
