@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer and Blockchain Developer</h1>
+<h1 align="center">Full Stack Developer with Blockchain Experience</h1>
 
 ![](https://komarev.com/ghpvc/?username=crazysupercoder&label=PROFILE+VIEWS&color=brightgreen)
 
