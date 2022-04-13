@@ -1,6 +1,6 @@
 <h1 align="center">Full Stack Developer with Blockchain Experience</h1>
 
-![](https://komarev.com/ghpvc/?username=crazysupercoder&label=PROFILE+VIEWS&color=brightgreen)
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=crazysupercoder" alt="visitors"></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
