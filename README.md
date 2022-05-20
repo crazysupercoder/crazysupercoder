@@ -9,10 +9,10 @@ const crazysupercoder = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java, Python, C#, PHP, Solidity, Rust],
   frontendTools: [React, Redux, Angular, Vue, NextJS],
-  backendTools: [SpringBoot, Express, ASP.NET, Djanog],
+  backendTools: [SpringBoot, Express, ASP.NET, Djanog, Laravel],
   cloudServices: ["AWS", "Microsoft Azure"],
   chains: ["Ethereum", "Binance", "Polygon", "Avalanche", "Solana"],
-  dApps: ["Dex", "DeFi", "NFT", "Bridge", "P2E"]
+  dApps: ["Dex", "NFT", "LaunchPad", "P2E", "DeFi"]
 }
 ```
 
